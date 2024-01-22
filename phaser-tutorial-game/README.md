@@ -1,4 +1,4 @@
-# flappy-bird-clone
+# phaser-tutorial-game
 
 ## Setup
 
@@ -7,17 +7,10 @@
 2. Navigate into the project directory
 
 ```bash
-  $ cd flappy-bird-clone
+  $ cd phaser-tutorial-game
 ```
+3. Run the app by right-clicking on the ```index.html``` file and click 'Open with Live Server'.
 
-3. Install the requirements
+![Alt text](image.png)
 
-```bash
-  $ npm install
-```
 
-4. Run the app
-
-```bash
-  $ npm run dev
-```

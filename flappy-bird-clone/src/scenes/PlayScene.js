@@ -18,7 +18,7 @@ class PlayScene extends Phaser.Scene {
 
   preload() {
     this.load.image('sky', 'assets/sky.png');
-    this.load.image('bird', 'assets/bird.png');
+    this.load.image('bird', 'assets/tweetie-bird.png');
     this.load.image('pipe', 'assets/pipe.png');
   }
 
